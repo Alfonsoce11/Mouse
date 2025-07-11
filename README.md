@@ -14,4 +14,4 @@ It consists of 3 parts, not including the pcb. I designed the base and the batte
 
 I also added parts on the base to keep the top part in place and I also added a hole for a screw.
 
-OnShape link: https://cad.onshape.com/documents/e5149cefcc6fcf6e46e5d30a/w/83f9b9912ecc8fbebcb307da/e/7d9534075d7e9d5a90a8b9f2?renderMode=0&uiState=68717e9547e792502a9c5145
+OnShape link: https://cad.onshape.com/documents/e5149cefcc6fcf6e46e5d30a/w/83f9b9912ecc8fbebcb307da/e/7d9534075d7e9d5a90a8b9f2?renderMode=0&uiState=687181e83ccb65257323ef5e
